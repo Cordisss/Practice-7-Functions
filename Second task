@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-// Задача 2: indexOf — поиск слова в строке
 int indexOf(char text[], char word[]) {
     int textLength = 0;
     int wordLength = 0;
